@@ -1,2 +1,2 @@
 # jaro
-> here is some test
+> Basic starting point for test automation.
