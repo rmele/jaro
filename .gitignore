@@ -1,4 +1,13 @@
 ### Python template
+# Pycharm
+.idea/.name
+.idea/encodings.xml
+.idea/jaro.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
